@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pil to purge melancholie: or, A preprative [sic] to a pvrgation: or, Topping, copping, and capping: take either or whether: or, Mash them, and squash them, and dash them, and diddle come derrie come daw them, all together..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1599</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07984</idno>
+            <idno type="STC">STC 19933.5</idno>
+            <idno type="STC">ESTC S124493</idno>
+            <idno type="EEBO-CITATION">68222535</idno>
+            <idno type="OCLC">ocm 68222535</idno>
+            <idno type="VID">183776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183776)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2197:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pil to purge melancholie: or, A preprative [sic] to a pvrgation: or, Topping, copping, and capping: take either or whether: or, Mash them, and squash them, and dash them, and diddle come derrie come daw them, all together..</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>William White,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1599.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Pforzheimer.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Head-pieces; initials.</note>
+                  <note>Reproduction of original in: Carl H. Pforzheimer Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English wit and humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183776:1"/>
+            <pb facs="tcp:183776:1"/>
+            <p>A PIL To purge Melancholie: OR, A PREPRATIVE TO A PVRGATION: <hi>or,</hi> Topping, Copping, and Capping: take either or whether: or, Maſh them, and ſquaſh them, and daſh them, and diddle come derrie come daw them, all together.</p>
+         </div>
+         <div type="mock_license">
+            <pb facs="tcp:183776:2"/>
+            <head>In laudem implaudim.</head>
+            <l>This worthy Worke may printed bee,</l>
+            <l>For ought therein that I can ſee:</l>
+            <l>For the gaue Author nothing ſayth</l>
+            <l>Contrary to the Catholique faith;</l>
+            <l>Nor ought therein that doth agree</l>
+            <l>With learning, wit, or good moralitie.</l>
+            <closer>
+               <signed>His od vaine.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:183776:2"/>
+            <head>To M. Bavv-vvavv Health, with increaſe of mirth <hi>and merrie conceites.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Aiſter Baw-waw, as one vnknowne, yet mooued through affection, as alſo hearing of your arriuall into England, I haue made bolde to dedicate this my ſimple labor vnto you; to be ſhrowded, ſheilded, and defended by your indifferent cenſure, you beeing a Spirit all compoz'de of mirth and merrie conceite: And although it may ſeeme but a toy, yet be<g ref="char:EOLhyphen"/>ing read, may refrigerate your ſenſes toſſed and weeried with the tedious trauell of for<g ref="char:EOLhyphen"/>raine Countries, as alſo ſtirre vp a hart plun<g ref="char:EOLhyphen"/>ged in melancholie, and adde alacritie to a minde diſpoſed to mirth. Thus, not kno<g ref="char:EOLhyphen"/>wing how I may well commend it, I referre it (as before) by you to be cenſured.</p>
+            <closer>
+               <signed>Yours his blue vaine,</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:183776:3"/>
+            <pb facs="tcp:183776:3"/>
+            <head>A Pill to purge Melancholie.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Cannot but maligne, and with dyre execrations bellow foorth the gorgonian diereſis of your late co<g ref="char:cmbAbbrStroke">̄</g>menſed miſpriſion, wher<g ref="char:EOLhyphen"/>by you do vnkennell your Goa<g ref="char:EOLhyphen"/>tiſh affections, and let looſe the firie codpeece-humor, &amp; Spar<g ref="char:EOLhyphen"/>row-like dominations calcio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<g ref="char:EOLhyphen"/>ted with the modul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of your ſuppoſed Arcadian ſprightlineſſe, to ſerenize my meta<g ref="char:EOLhyphen"/>phiſicall partes. But I wonder how this crooknoſd con<g ref="char:EOLhyphen"/>ceite of yours, came ſnayling it ſelfe into the diurnall reuolution of your Iadelike, plunging, durtie, &amp; ſcauen<g ref="char:EOLhyphen"/>ger-like, ſweeping &amp; rakeing togeather the rubbiſh and outcaſt of your Herringcobs inuentions: But to ſhape my inuention to your Taylors wit, and my tilting ſtyle to your Noddiſhips vnderſtanding, now I come to it. I heare that you meane (Oh ſcuruie louzie meaning) to betrate vnto the world the vntimelie birth, or the addle egge of your late long ill lobored lines, which you haue like ill commodities ſo oft thruſt vpon my handes, con<g ref="char:EOLhyphen"/>tinually ſolliciting me with them; which I caſheere: and yet me thinkes you ſhould not be ſo inconſideratly foo<g ref="char:EOLhyphen"/>liſh, as to be the Bellowes to puffe abroad thine owne diſgraces: and I haue almoſt periſht my braines with continuall retrograding them, how thou durſt preſume to call my vnſtayned name in queſtion, with thy ſcattring Papers like halfe penny gigges: but I commaund thee
+<pb facs="tcp:183776:4"/>by thy Pumpes and Pantables to deſiſt from printing them, or I do aſſeuerate my bath vnto thee, that I will cauſe thee to be moſt dangerouſlie exulcerated. Hadſt thou none to theorize thy halting barbariſm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and wit-wanting Howliglas vpon, but me, and then to print it for euery trencher-waighting fooliſh knaue to ſlauer on't As God ketch me, either downe vpon your knees <hi>erectis manibus,</hi> and yell for mercie at the portall grates of my compaſſion, or I will ſo caſtice thee inflicting diſmall coratiues vpon thy fainting ſoule, that thou ſhalt be en<g ref="char:EOLhyphen"/>forced to vilifie thy Rotundities, the onely ſtorehouſe for thy Bread and Cheeſe. Therefore, preſently turne the hower-glaſſe of your determination, or looke for Roddes.</p>
+            <closer>
+               <signed>
+                  <hi>She that skornes thee and thy puffie ſtuffe: <hi>Snuffe.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:183776:4"/>
+            <head>A Pill to purge Melancholie.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Haue double dd. receiued your Letter, written in a fidling ſtyle: which I haue anſwered with a crowding ſpirit. I haue been diuers times at the Portal grates of your compaſſion, to aſke forgiueneſſe for my ſinnes, but by reaſon of your ab<g ref="char:EOLhyphen"/>ſence, I remaine as yet ſtill a wicked ſinner, becauſe you are not there to giue me abſolution. I do perſeueere in my ſcuruie louzie meaning, to beray &amp; betray the world with my flattring Papers like ſixe pennie gigges, and to haue them printed: and to confirme my reſolution, I haue ſworne by my Pumpes and Pantables, Bootes, Slippers, and Shooes, it ſhall be performed with as much expedition as may be. Your ſcuruie loftie louzie Letter, with my crabbed crooked anſwere to be printed amongſt the reſt, to your prayſe and my ſhame: and if you will ſend me twentie more ſuch ſnuffes, they ſhall be anſwered, but how: I will not promiſe you in an Arca<g ref="char:EOLhyphen"/>dian ſpirit, but rather with ſome Lenton relictes, or with ſome drunken drouzie draffie durtie dounghill ſtile, or ſcauenger like kind of wryting and inditing, fit for ſuch driueling ſcribling ſniueling filthy fidling ſtuffe: Therfore I countermaund you, preſently to aucrt your heauy diſpleaſure &amp; indignation conceiued and intended againſt me, or looke for no fauour at my handes.</p>
+            <closer>
+               <signed>
+                  <hi>He that loues thee and thy ſnuffie ſtuffe, <hi>Snipſnap.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:183776:5"/>
+            <opener>
+               <salute>To all skorners, skoffers, mockers, iybers, and de<g ref="char:EOLhyphen"/>riders: And to all foule knaues, fine knaues, faire knaues, proud knaues, prettie knaues, prating knaues, fooliſh knaues, flattring knaues, fliering knaues, cog<g ref="char:EOLhyphen"/>ging knaues, deceitfull knaues, ſoothing knaues, ſmoo<g ref="char:EOLhyphen"/>thing knaues, diſſembling knaues, mad<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e knaues, merrie knaues, drouzie knaues, dronken knaues, harme hatch knaues, warme watch knaues<g ref="char:punc">▪</g> cold catch knaues, harme watch knaues, and harme catch knaues: and to all other inferior knaues, of what qualitie and proper<g ref="char:EOLhyphen"/>tie ſoeuer; togeather with all lackes, whipiackes, and skipiacks; Dawes, Woodcocks, Peacocks, and Wea<g ref="char:EOLhyphen"/>thercocks: and to all and ſinguler flat knaues and very knaues, Tapſters, tilters and tylers; diggers, ditchers and deluers; plotters, workers, deuizers and contriuers of Roagrie, knauerie, and villanie: long cut, ſhort cut, pinch cut, and plucke cut; the writer hereof ſendeth greazing and greeting, raking, ſhooueling, ſwapping, loading, threſhing and ſweeping; with ſalting, ſeazo<g ref="char:EOLhyphen"/>ning and ſauoring, powdring, ſpiceing and fauouring; bruſhing, blouzing and blazing, with blowing, fyring, and flaming.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Letter (faire Miſtris) was de<g ref="char:EOLhyphen"/>liuered, and receiued, according to the direction: but being written in a loftie ſtile, it may require ſome ex<g ref="char:EOLhyphen"/>traordinary deliberation to anſwere your fooliſhips abhomination: but becauſe it may not ſeeme altogether t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſe h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>race and maieſtie, I thought I would hit ye and wit ye, and ſcant ye and want ye, and lacke ye and
+<pb facs="tcp:183776:5"/>lot ye, and get ye and haue ye, and loſe ye. Then feele ye and find ye, and fire ye &amp; flint ye, and flame ye, and tiler ye and tayler ye, and trifle ye and traſh ye, and tilt ye and tinke ye and tile ye, and tinker ye and moyle ye and toyle ye, and thimble ye, and thatch ye &amp; threſh ye, and ſheepe ye and ſithe ye and ſheare ye, and ſhape ye and ſowter ye and ſhooe ye and ſize ye and ſaaw ye and ſeame ye, and quiuer ye and quauer ye and quake ye, and mould ye and cruſt ye and knead ye, and brew ye and bake ye and kake ye, and wake ye and crum ye and cram ye, and ſhinke ye and ſhanke ye, and ſiſe ye and ſinke ye, and ſhiuerye and ſhackle ye and ſhake ye, and quip ye and quirke ye and quilt ye, and firme ye and farme ye, and iron ye and preſſe ye and fit ye. Then tit ye and lip ye and tap ye, and heele ye and halt ye, and hop ye and top ye and cop ye, and lip ye and lap ye &amp; lop ye, and hick ye &amp; hack ye &amp; hew ye, and hood ye and hart ye and hind ye, and horne ye and hammer ye and ſtammer ye, and ſtunnie and head ye. Then hip ye and nip ye and skip ye, and trim ye &amp; trie ye, and tard ye and trace ye and trip ye. Then nettle ye and tickle ye and prickle ye, and taint ye and tempt ye &amp; turue ye, and wind ye and paintye and burne ye, and couler ye and tart ye and tinckt ye, and mouze ye and touze ye, and tugg ye and touch ye and taſte ye. Then ſnaile ye &amp; ſlow ye and ſlime ye, and ſnake ye and ſnig ye and lime ye, and ſpider ye and thread ye and ſpin ye, and weaue ye &amp; waue ye, and web ye and wirpe ye and warpe ye, and wriggle ye and wrangle ye and wrap ye, and friske ye and fringe ye and fold ye, and nicke ye and nit ye and net ye, and ſcramble ye and ſcrawle ye and crawle ye, and mount ye and creepe ye &amp; clime ye. Then traine ye and taile ye, and trill ye and trowle and traile ye, and trap ye &amp; clacke ye and clap ye, and fiſh ye and ſhe ye &amp; flap ye, and nibble ye and worme ye and bayte yt, and angle ye and hooke ye
+<pb facs="tcp:183776:6"/>and hinge ye. Then ſnare ye and ſnarle ye and ſnatch ye, and grippell ye and grappell ye and gripe ye, and ſnaffle ye and ſnuffe ye and ſniffe ye, and ſnip ye and ſnap ye, and clip ye and cap ye, and criſpe ye and cripp and crop ye, and ſniuell ye and ſnout ye, and ſnift ye and ſnieze ye, and ſnit ye and ſnat ye and ſnot ye. Then tricke ye and pricke ye and pranke ye, and ſpan ye &amp; ſpew ye and ſpit ye, and trampe ye and tracke ye &amp; tread ye, and goate ye and butt ye and bucke ye, and hunch ye and punch ye, ann kibe ye and kidd ye and kit ye, and ſparrow ye and ſpurne ye and kicke ye. Then curbe ye &amp; knife ye and cut ye, and wound ye and vlcer ye and hurt ye. Then honor ye &amp; hower ye and ſower ye, and ſipp ye and ſopp ye, and ſauce ye and ſowſe ye, and ſalt ye &amp; ſeazou ye and ſauer ye, and powder ye and ſpice ye and fauor ye, and ſuger ye &amp; ſwaue ye, and hounie ye and bitter ye and ſweete ye. Then carue ye and ſerue ye and ſalue ye, and playſter ye and heale ye &amp; cure ye, and alter ye and palter ye, and pinder ye and pander ye and pedler ye, and plume ye and feather ye and fidler ye. Then crooke ye and cukold ye and corne ye, and knit ye and knot ye and knag ye, and ſnig ye and ſnag ye &amp; crag ye, and kricke ye and kracke and krancke ye, and bind ye and faſt ye &amp; loſe, and knaue ye &amp; crampe ye &amp; knacke ye. Then hinch ye and wrinch ye, and twinch ye and pinzer ye and pinch ye, and wring ye and wreſt ye and writh ye, and catch ye and cozen ye, and klinke ye and claſpe ye and clinch ye. Then owle ye and gloze ye and glaze ye, and gander ye &amp; gooſe ye and gaze ye, and glaſſe ye &amp; glimſe ye and glance ye, and glaunder ye and glade ye and glyde ye, and pumpe ye and ſlipper ye and ſlide ye, and glitter ye and gull ye and gleeke ye. Then ſtagger ye and ſtumble ye and ſtrip ye, and ſtraddle ye and ſtrap ye and ſtride ye, and ſtifle ye and ſtyle ye and ſteele ye, and fillip ye &amp; fiddle
+<pb facs="tcp:183776:6"/>ye and firke ye, and crowde ye and finger ye and fyle ye. Then fine ye and foule ye and faire ye, and clatter ye and claw ye and ſcratch ye, and harbor ye and hoouer ye &amp; hide ye, and hatch ye and harrow ye and hoord ye, and ſtore ye and hiue ye and ſtarue ye, and ſooth ye and flatter ye and fayle ye. The<g ref="char:cmbAbbrStroke">̄</g> apple ye and eye ye, and eare ye &amp; feare ye, and ſpunge ye &amp; ſinge ye, &amp; ſingle ye and ſigne &amp; ſeale ye. Then chip ye and chop ye, and champe ye and chaw ye and chouze ye, and ſcatter ye and ſpread, and butter ye and baſt ye and bread ye, and chalke ye and change ye and cheeze ye, and batter ye and bite ye and refuze ye. Then ſticke ye and ſtraw ye and daw ye, and fluſe ye and fling ye and flaw ye. Then ferret ye and feare ye and fray ye, and gaſt ye and ghoſt ye and ſpright ye, and fetter ye and foxe ye and fright ye. Then ſhroue ye and ſhrine ye, and ſhriue ye and ſhrift ye, and court ye and coch ye and cart ye, and durt ye and driue ye and dragge ye, and drudge ye and droſſe ye and draffe ye, and dawbe ye and myre ye and lagg ye, and whoope ye and hallow ye and whiſſle ye, and diſh ye and daſh ye, and laſh ye and plaſh ye, and ſhuffle ye and card ye and ſhift ye, and cliſh ye and claſh ye, and coupe ye and couch ye and caſh ye. Then foole ye and floute ye and poake ye a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d peate ye and poynt ye, and thruſt ye and foyne ye and foyle ye, and flie ye and free ye and flight ye. Then hawke ye and lurcke ye and lure ye, and male ye and meale ye and ſift ye, and hand ye and hart ye and fiſt ye, and prime ye and prune ye and princke ye, and currle ye and frizzle ye and frounze ye, and pearle ye and purle and pincke ye, and prampe ye and fillit ye and pride ye, and ſwip ye and ſwap ye, &amp; rake ye and ſhoouell ye and ſweepe ye, and noy ye and toy ye and coy ye, and iewell
+<pb facs="tcp:183776:7"/>ye and iem ye and ioy ye. Then pill ye and picke ye and pare ye and powle ye and ſhaue ye &amp; ſpare ye, and bald ye and ſkin ye and bare ye. Then ſlit ye and ſliue ye and ſlay ye, and ſliſe ye and thinne ye and ſhare ye, and drench ye and diue ye, and ducke ye &amp; drowne ye, and ſwim ye and ſinke ye and ſaue ye. Then ſkoggin ye and ſkoffe ye and ſkorne ye and ſkald, and ſkar ye and ſkurfe ye and ſkarfe ye, and mocke ye and mop ye and mow ye, and ſhelter ye and ſhield ye, and ſhrowd ye and ſhade ye, and houſe ye and mow ye and mew ye. Then hobbie ye and horſe ye and hire ye, and dingle ye and dandle ye, and ſpingle ye and ſpangle ye, and fickle ye and fancie ye, and ferrie ye and fingle ye and fangle ye, and handle ye dandle ye and daunce ye, and hazzell ye and dazzell ye, and muze ye and maze ye, and fizzell ye and mizzell ye, and madd ye and mewt ye and miſt ye, and dull ye &amp; dolt ye and dunce ye. Then diddle cum derrie cum bee ye and boe ye and buzze ye, and amble ye and trot ye and prance ye. Then addle ye and idle ye and bridle ye, and bramble ye and brier ye and branch ye, and burre ye and bride ye and bruſh ye, and larke ye and lerke ye and ierke ye, and gigg ye and iogg ye and iolt ye, and iangle ye and rod ye and ride ye, and whiſcum whaſcum brake ye &amp; brine ye &amp; breech ye. Then ſwigger ye and ſwegger ye, and ſwagger ye and ſwelt ye, and ſtibb ye and ſtabb ye, and ſtobb ye and ſtare ye and ſtart ye, and roue ye and run ye and rime ye, and riddle ye &amp; rend ye and riue ye. Then tune ye and time ye and tame ye, and pot ye and pitcher ye and pan ye, and ſtopple ye and bottle ye and bagg ye, and begger ye and pipe ye and can ye, and itch ye and pitch ye and patch ye, and bangle ye and bungle ye and botch ye, and mende ye and cobble ye and peece ye. Then baſe ye and caſe ye and buſke ye and brace ye and lace ye. Then ruffin ye and ruffle ye, and rampe ye and ripe ye and reach ye, and
+<pb facs="tcp:183776:7"/>pilfer ye and pelfe ye, and rifle ye and ſpoyle and rob ye, and flea ye and filch ye &amp; fleece ye, and ribbell ye &amp; rabbell ye, and ſtibber ye and ſlabber ye, and ſcribbell ye &amp; ſcrab<g ref="char:EOLhyphen"/>bell ye, and blibber ye and blabber ye, and bluſter ye and bliſter ye, and ſtorme ye and whirtle ye and wind ye and raine ye and haile ye, and chaffe ye and ſnow ye, and bla<g ref="char:EOLhyphen"/>ther ye and blow ye and blaſt ye. Then huffe ye and buffe ye and muffe ye, and toe ye and taw ye, and tuffe ye and raw ye and rugg ye and ruffe ye and rag-men rowle ye and ſnuffe ye, and poſt ye and paſt ye and puffe ye, and clod ye and turde ye and turfe ye, and court ye &amp; coaſt ye and puffe ye and cuffe ye and ſnuffe ye. Then blubber ye and ſullen ye and ſob ye, and drip ye &amp; drop ye &amp; driuel ye, and ſliuer ye and ſlauer ye, and ſloouen ye and ſott ye and ſlut ye, and wipe ye &amp; trencher ye and tripe ye, and boyle ye and ſome ye, and ſuddes ye and ſope ye, and ſurge ye and ſwill ye &amp; ſwell ye, and water ye &amp; lade ye, and mell ye and fell ye, and wag ye and colt ye, and quiddle ye and quill ye and quell ye, and fliſh ye and flaſh ye, &amp; driggle ye and draggle ye, and willow ye wallow ye &amp; waſh ye and laue ye &amp; blith ye &amp; bath ye, and lout ye and clout ye and cleaue ye, and lance ye and lanke ye, and blanch ye and blanke ye, and hanch ye &amp; lanch ye, and leg ye and flinch ye and flanke ye. Then raſcall ye &amp; royſter ye, and rotton ye and roag ye and raze ye, and rauell ye and reuell ye and riuill ye, and ierke ye and iag ye &amp; rag ye, and blacke ye blot ye and blur ye, and vaile ye and maſke ye and mum ye, and chaunce ye and dice ye, and drum ye, and nod ye vice ye and ſcum ye, and ſpot ye and blue ye and blend ye, and bleare ye and blinke ye and blind ye, and twerrle ye and twiſt ye and twine ye, and rocke ye and reele ye and wind ye, and ricke ye and racke ye &amp; roule ye, and ſtitch ye and tacke ye and round ye, and bend ye &amp; bruze ye and breake ye, and band ye and ball ye &amp; bound ye, and chaſe
+<pb facs="tcp:183776:8"/>yeand chafe ye &amp; heate ye, and coole ye and ſweate ye and ſound ye, and grind ye and grate ye and greeue ye, and grauell ye and gall ye &amp; ground ye. Then ſtragle ye and ſtruggle ye and ſtrangle ye, and ſlip ye and ſoupe ye, and ſloupe ye and ſlop ye, and ſlim ye and ſlam ye &amp; ſlaue ye, and ſtemme ye and ſtreame ye and ſtray ye, and garniſh ye and burniſh ye and furniſh ye, and bud ye &amp; bloſſome ye and bloome ye, and floriſh ye and flower ye &amp; freſh ye, and gay ye &amp; may ye and ray ye, and ſport ye and rig ye and play ye, and wreath ye and bower ye and braue ye. Then bird ye and bolt ye and cage ye, and graue ye and wiſe ye and ſage ye, and pope ye &amp; prince ye and page ye, and rope ye and hang ye and rage ye, and gild ye &amp; gold ye and gage ye. Then ſwillow ye and ſwallow ye, and ſwiſh ye and waſh ye, and bib ye and drinke ye, and quiffe ye and quart ye and quaffe ye. Then iugg ye and iacke ye, and ginger ye and ginnie ye &amp; gill ye, and morter ye and barter ye, and muſter ye &amp; maiſter ye, and martir ye and margerte and marrie ye. Then maime ye &amp; iarre ye and marre ye, and manch ye granch ye, and maſh ye &amp; quince ye and quaſh ye, and mumble ye and mince ye and melt ye. Then humble ye and fumble ye and iumble ye, and lighten ye and flighten ye, and rumble ye and thunder ye and thret ye, and itter ye and titter ye and tipple ye, and mingle ye and mangle ye, and tingle ye &amp; terrifie ye and tangle ye, and type ye and toſſe ye and tyre ye, and totter ye and wearie ye and tumble ye. Then haunt ye &amp; deyntie ye and daunt ye, and taunt ye and viliffe ye and vaunt ye, and gigg ye and iebe ye, and iuggle ye &amp; iade ye &amp; ieſt ye, and trouſe ye and trumpe ye and frumpe ye, and loue ye and loath ye and leaue ye, and win ye &amp; weare ye &amp; teare ye, and prize ye and prayſe ye and pleaſe ye, and chant ye and charme ye, and chin ye and check ye &amp; chocke ye, and locke ye and chaine ye and clogg ye, and link ye &amp; chink
+<pb facs="tcp:183776:8"/>ye, chatter ye and cherp ye &amp; chime ye, and cock ye and crow ye, and cob ye and kembe ye and combe ye, &amp; cackle ye and cockle ye, and chockle ye &amp; throttle ye choake ye, and cherrie ye and merry ye, and roze ye and checke ye and cheere ye, and print ye and lift ye, and load ye &amp; light ye, and rowze ye and rect ye and right ye, and rayze ye and eaze ye, and grace ye and greaze ye and greete ye. Then ayme ye and marke ye, and pin ye and prop ye, and ſhaft ye &amp; ſhoot ye, and drib ye and ſhort ye &amp; miſſe ye. Then name ye and blame ye, and ſtring ye and ſtretch ye and ſtraine ye, and ting ye and towle ye and ring ye. Then ſtampe ye and ſtaine ye, and ſting ye and limpe ye and lame ye. Then ban ye &amp; bane ye, &amp; noynt ye &amp; balme ye, and ſlicke ye and ſmeare ye and ſmooth ye, and bundle ye &amp; blouze ye and dlaze ye, and ſmoother ye and ſmoake ye and waſte ye, and barbe ye and bleſſe ye and curſe ye, and kiſſe ye and croſſe ye and craze ye, and crab ye and cruſh ye and ſquize ye, and clowne ye and crowne ye, and ſparge ye &amp; ſpindle ye and ſprinkle ye, and bill ye and beard ye and braine ye, and hit ye and fit ye and miſſe ye. Then pepper ye and poyſon ye and pearch ye, and pine ye and periſh ye and paine ye, and ſo fret ye and froſt ye and freeze ye, and plunge ye and pardon ye &amp; plague ye. And ſo fire the worlde with Rattes and Brattes, and Sprattes and Gnattes, and knottes and cords, &amp; kogges and bobs, and noddes and oddes and Hearing-cobs, and Buſſardes and Beares and Bugges and Battes, and Flagges and Flyes &amp; Waſpes, and Burres &amp; Beeues and Buffes, and Bees and Bawdes and Butterflyes.</p>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:183776:9"/>
+            <opener>
+               <salute>VAL.</salute>
+            </opener>
+            <p> I commend me vnto you, and to your Siſ. Although at this time not worthie either to be re<g ref="char:EOLhyphen"/>membred or commended, becauſe ſhe thought that a red Hearring was not a diſh daintie enough to feaſt ſo royall a gueſt as a <hi>Commaunder,</hi> yet thinke I my ſtomacke eager inough at all tymes and ſeaſons to feede vpon a poore Sprat, in her company. And although ſhe thinkes Sorrell a ſauce too ſweete for an Aſſe-head, yet I thinke Muſtard &amp; Greene-ſauce without Suger, not ſweete inough for her Calues-head. So I am very well content to beare the Aſſes burden ou my backe for once, if ſhe be as willing to weare the Eares, as I am pleaſed to ſtinke of the Pumpe, becauſe I am not able to endure a paire of ſtraight Leather Shooes on my feete, my heeles being ſore. And to requite your kindnes and goodwill, which I perceiue you beare mee, I haue ſent you by this bearer ſome Ditties and Songes, ſuch as I haue: And if it lie in my power to gratifie you with a bet<g ref="char:EOLhyphen"/>ter thing, ye ſhall commaund me. In the meane time, I reſt beholding vnto you for your curteſie ſhewed me at the poore Widdowes houſe, being in your Siſters conceite too homelie a roofe to entertaine ſo great a Commaunder: And for bidding me, Come vp Aſſe into a higher roome, that Chollericke Pill of hers will eaſely be diſgeſted with one pleaſant conceit or other of <hi>Moun<g ref="char:EOLhyphen"/>ſier de Kempe</hi> on Monday next at the Globe, where I would gladly meete you, if your leyſure will ſo permit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> In the meane time I bid you farewell.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:183776:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
